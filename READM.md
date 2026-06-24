@@ -1,1 +1,1 @@
-#TaskManager : Application collaborative réalisée avec Git. 
+Application TaskManager version professionnelle
